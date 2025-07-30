@@ -1,0 +1,2 @@
+Los datos utilizados en este proyecto fueron obtenidos desde una hoja de cálculo de Google Sheets, la cual se alimentaba en tiempo real a través de una aplicación desarrollada con Google Apps Script y Google AppSheet (plataforma de creación de aplicaciones sin código de Google).
+Esta aplicación era utilizada en dispositivos móviles para registrar directamente los parámetros de producción desde cada inyectora en planta, lo que permitía capturar información operativa de forma inmediata y descentralizada.
